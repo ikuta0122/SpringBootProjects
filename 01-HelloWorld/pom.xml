@@ -9,6 +9,7 @@
 	<version>1.0.0</version>
 
 	<!--导入SpringBoot依赖-->
+	<!--Hello World项目的父工程是org.springframework.boot-->
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
