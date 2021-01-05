@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab4c0545-b617-4c22-989c-35af89a25252" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-Quick/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/02-Quick/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Quick/.gitignore" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,8 +131,16 @@
       <workItem from="1609204397650" duration="144000" />
       <workItem from="1609704651272" duration="5356000" />
       <workItem from="1609847997024" duration="75000" />
-      <workItem from="1609853419353" duration="259000" />
+      <workItem from="1609853419353" duration="501000" />
     </task>
+    <task id="LOCAL-00001" summary="设置gitignore">
+      <created>1609853740600</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1609853740600</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,6 +148,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="设置gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="设置gitignore" />
   </component>
   <component name="WindowStateProjectService">
     <state x="466" y="0" key="#Project_Structure" timestamp="1608598815132">
@@ -152,10 +160,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="191" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1609710911546" />
-    <state x="500" y="0" key="CommitChangelistDialog2" timestamp="1609705063927">
+    <state x="500" y="0" key="CommitChangelistDialog2" timestamp="1609853740136">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="500" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1609705063927" />
+    <state x="500" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1609853740136" />
     <state x="740" y="99" key="FileChooserDialogImpl" timestamp="1609848064003">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -196,10 +204,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="242" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1609848009686" />
-    <state x="421" y="80" key="Vcs.Push.Dialog.v2" timestamp="1609705100683">
+    <state x="421" y="80" key="Vcs.Push.Dialog.v2" timestamp="1609853845708">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="421" y="80" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1609705100683" />
+    <state x="421" y="80" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1609853845708" />
     <state x="644" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1609204400322">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
